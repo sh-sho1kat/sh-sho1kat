@@ -26,43 +26,28 @@
       </td>
       <td>
         <a href="https://www.linkedin.com/in/shefat-hossen-shoikat" target="blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:shefat.hossen.045@gmail.com" target="blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Email" height="30" width="40" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://vjudge.net/user/sh_sho1kat" target="blank">
-          <img src="https://vjudge.net/favicon.ico" alt="VJudge" height="30" width="40" />
-        </a>
-      </td>
-      <td>
-        <a href="https://atcoder.jp/users/sh_sho1kat" target="blank">
-          <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="30" width="40" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.codechef.com/users/sh_sho1kat" target="blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-        </a>
-      </td>
-      <td>
-        <a href="https://lightoj.com/user/sh_sho1kat" target="blank">
-          <img src="https://lightoj.com/favicon.ico" alt="LightOJ" height="30" width="40" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" height="30" width="40" />
         </a>
       </td>
       <td>
         <a href="https://leetcode.com/sh_sho1kat" target="blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
         </a>
       </td>
     </tr>
   </table>
+</p>
+
+<p align="left">
+  <a href="mailto:shefat.hossen.045@gmail.com">shefat.hossen.045@gmail.com</a>
+  &nbsp;|&nbsp;
+  <a href="https://vjudge.net/user/sh_sho1kat">VJudge</a>
+  &nbsp;|&nbsp;
+  <a href="https://atcoder.jp/users/sh_sho1kat">AtCoder</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.codechef.com/users/sh_sho1kat">CodeChef</a>
+  &nbsp;|&nbsp;
+  <a href="https://lightoj.com/user/sh_sho1kat">LightOJ</a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
