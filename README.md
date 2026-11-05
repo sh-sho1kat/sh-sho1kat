@@ -25,27 +25,41 @@
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/shefat-hossen-shoikat" target="blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/shefat-hossen-shoikat" target="blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
       </td>
       <td>
-        <a href="mailto:shefat.hossen.045@gmail.com" target="blank">Email</a>
+        <a href="mailto:shefat.hossen.045@gmail.com" target="blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Email" height="30" width="40" />
+        </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://vjudge.net/user/sh_sho1kat" target="blank">VJudge</a>
+        <a href="https://vjudge.net/user/sh_sho1kat" target="blank">
+          <img src="https://vjudge.net/favicon.ico" alt="VJudge" height="30" width="40" />
+        </a>
       </td>
       <td>
-        <a href="https://atcoder.jp/users/sh_sho1kat" target="blank">AtCoder</a>
+        <a href="https://atcoder.jp/users/sh_sho1kat" target="blank">
+          <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="30" width="40" />
+        </a>
       </td>
       <td>
-        <a href="https://www.codechef.com/users/sh_sho1kat" target="blank">CodeChef</a>
+        <a href="https://www.codechef.com/users/sh_sho1kat" target="blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+        </a>
       </td>
       <td>
-        <a href="https://lightoj.com/user/sh_sho1kat" target="blank">LightOJ</a>
+        <a href="https://lightoj.com/user/sh_sho1kat" target="blank">
+          <img src="https://lightoj.com/favicon.ico" alt="LightOJ" height="30" width="40" />
+        </a>
       </td>
       <td>
-        <a href="https://leetcode.com/sh_sho1kat" target="blank">LeetCode</a>
+        <a href="https://leetcode.com/sh_sho1kat" target="blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+        </a>
       </td>
     </tr>
   </table>
