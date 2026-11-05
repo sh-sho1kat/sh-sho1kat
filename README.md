@@ -25,8 +25,13 @@
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/shefat-hossen-shoikat" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" height="30" width="40" />
+        <a href="https://www.linkedin.com/in/shefat-hossen-shoikat" target="_blank">
+          <img
+            src="https://cdn.simpleicons.org/linkedin/0A66C2"
+            alt="LinkedIn"
+            height="30"
+            width="40"
+          />
         </a>
       </td>
       <td>
@@ -39,8 +44,6 @@
 </p>
 
 <p align="left">
-  <a href="mailto:shefat.hossen.045@gmail.com">shefat.hossen.045@gmail.com</a>
-  &nbsp;|&nbsp;
   <a href="https://vjudge.net/user/sh_sho1kat">VJudge</a>
   &nbsp;|&nbsp;
   <a href="https://atcoder.jp/users/sh_sho1kat">AtCoder</a>
@@ -48,6 +51,14 @@
   <a href="https://www.codechef.com/users/sh_sho1kat">CodeChef</a>
   &nbsp;|&nbsp;
   <a href="https://lightoj.com/user/sh_sho1kat">LightOJ</a>
+</p>
+
+<h3 align="left">Contact:</h3>
+
+<p align="left">
+  <a href="mailto:shefat.hossen.045@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
