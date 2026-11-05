@@ -28,6 +28,22 @@
   </table>
 </p>
 
+<p align="left">
+  <a href="mailto:shefat.hossen.045@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/shefat-hossen-shoikat">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://vjudge.net/user/sh_sho1kat">VJudge</a>
+  &nbsp;|&nbsp;
+  <a href="https://atcoder.jp/users/sh_sho1kat">AtCoder</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.codechef.com/users/sh_sho1kat">CodeChef</a>
+  &nbsp;|&nbsp;
+  <a href="https://lightoj.com/user/sh_sho1kat">LightOJ</a>
+  &nbsp;|&nbsp;
+  <a href="https://leetcode.com/sh_sho1kat">LeetCode</a>
+</p>
+
 <h3 align="left">Tech Stack:</h3>
 <table align="left">
   <tr>
