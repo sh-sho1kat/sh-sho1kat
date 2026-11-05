@@ -27,11 +27,7 @@
       <td>
         <a href="https://www.linkedin.com/in/shefat-hossen-shoikat" target="_blank">
           <img
-            src="https://cdn.simpleicons.org/linkedin/0A66C2"
-            alt="LinkedIn"
-            height="30"
-            width="40"
-          />
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
       </td>
       <td>
